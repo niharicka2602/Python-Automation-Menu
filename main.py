@@ -11,6 +11,8 @@
 #    content being through CloudFront
 # 5. Basic RHEL commands
 # 6. LVM Partitioning
+
+# Voice Commands Updated !!!
 ######################################################
 
 
